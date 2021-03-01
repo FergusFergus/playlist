@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'poppinsregular';
+    src: url('poppins-regular-webfont.woff2') format('woff2'),
+         url('poppins-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+playlist {
+    background-color: #202124;
+}
+
+heading {
+    color: #202124;
+    font-size : 60px;
+    margin-left: 40px;
+    font-family: Comfortaa;
+    background-color: #6fe35d;
+}
+
+songs {
+    background-color: #202124;
+}
+
+song {
+    display: block;
+    font-size : 20px;
+    color: #f7f8fa;
+    padding-top: 40px;
+    padding-right: 40px
+}
+
+songInfoHeader {
+    display: block;
+    font-size : 30px;
+    font-weight: bold;
+    color: #f7f8fa;
+    padding-top: 40px;
+    padding-right: 40px
+}
+
+songname, artist, genre, year {
+    padding-left: 40px
+}
+
+artist {
+    position: fixed;
+    left: 28%
+}
+
+genre {
+    position: fixed;
+    left: 58%
+}
+
+year {
+    position: fixed;
+    left: 88%
+}

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="style.css"?>
+
+<playlist>
+    <heading>Spoots!</heading>
+    <songs>
+        <songInfoHeader>
+            <songname>Title</songname>
+            <artist>Artist</artist>
+            <genre>Genre</genre>
+            <year>Year</year>
+        </songInfoHeader>
+        <song>
+            <songname>Honey Whiskey</songname>
+            <artist>Nothing But Thieves</artist>
+            <genre>Alternative/Indie</genre>
+            <year>2015</year>
+        </song>
+        <song>
+            <songname>Bullet</songname>
+            <artist>The Ballroom Theives</artist>
+            <genre>Neo-folk</genre>
+            <year>2015</year>
+        </song>
+        <song>
+            <songname>Running with the Wolves</songname>
+            <artist>Aurora</artist>
+            <genre>Electropop/Folktronica</genre>
+            <year>2016</year>
+        </song>
+        <song>
+            <songname>Monsters</songname>
+            <artist>Seafret</artist>
+            <genre>Alternative/Indie</genre>
+            <year>2020</year>
+        </song>
+        <song>
+            <songname>Short Change Hero</songname>
+            <artist>The Heavy</artist>
+            <genre>Neo Soul</genre>
+            <year>2009</year>
+        </song>
+        <song>
+            <songname>Dust Bowl Dance</songname>
+            <artist>Mumford and Sons</artist>
+            <genre>Folk Rock</genre>
+            <year>2009</year>
+        </song>
+        <song>
+            <songname>Human</songname>
+            <artist>Rag'n'Bone Man</artist>
+            <genre>Pop</genre>
+            <year>2016</year>
+        </song>
+        <song>
+            <songname>Hurt</songname>
+            <artist>Jonny Cash</artist>
+            <genre>Country</genre>
+            <year>2002</year>
+        </song>
+        <song>
+            <songname>Ghost Towns</songname>
+            <artist>Radical Face</artist>
+            <genre>Folk</genre>
+            <year>2011</year>
+        </song>
+        <song>
+            <songname>Wolves of the Revolution</songname>
+            <artist>The Arcadian Wild</artist>
+            <genre>Folk</genre>
+            <year>2016</year>
+        </song>
+    </songs>
+</playlist>
